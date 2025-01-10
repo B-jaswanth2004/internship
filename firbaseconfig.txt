@@ -1,0 +1,9 @@
+        const firebaseConfig = {
+            apiKey: "AIzaSyA7Z3bImR0ExmGk5xN1JlF9O2xzKoNtJe8",
+            authDomain: "vsip-ae225.firebaseapp.com",
+            databaseURL: "https://vsip-ae225-default-rtdb.firebaseio.com",
+            projectId: "vsip-ae225",
+            storageBucket: "vsip-ae225.appspot.com",
+            messagingSenderId: "583742741789",
+            appId: "1:583742741789:web:96371708ed7f76c45415f4"
+        };
